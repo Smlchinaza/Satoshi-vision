@@ -1,0 +1,95 @@
+.elementor-215 .elementor-element.elementor-element-c08dbcf {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    --padding-top: 2%;
+    --padding-bottom: 2%;
+    --padding-left: 0%;
+    --padding-right: 0%;
+}
+
+.elementor-215 .elementor-element.elementor-element-c08dbcf:not(.elementor-motion-effects-element-type-background),
+.elementor-215 .elementor-element.elementor-element-c08dbcf>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-215 .elementor-element.elementor-element-c08dbcf,
+.elementor-215 .elementor-element.elementor-element-c08dbcf::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-215 .elementor-element.elementor-element-fdee2cd {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --justify-content: center;
+    --align-items: center;
+    --background-transition: 0.3s;
+    --border-radius: 30px 30px 30px 30px;
+    --padding-top: 2%;
+    --padding-bottom: 2%;
+    --padding-left: 0%;
+    --padding-right: 0%;
+}
+
+.elementor-215 .elementor-element.elementor-element-fdee2cd:not(.elementor-motion-effects-element-type-background),
+.elementor-215 .elementor-element.elementor-element-fdee2cd>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-215 .elementor-element.elementor-element-fdee2cd,
+.elementor-215 .elementor-element.elementor-element-fdee2cd::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-215 .elementor-element.elementor-element-2edc3c6 {
+    --display: flex;
+    --align-items: center;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --background-transition: 0.3s;
+}
+
+.elementor-215 .elementor-element.elementor-element-7d46bcc {
+    text-align: left;
+    color: #FFFFFF;
+    font-family: "Bebas Neue", Sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 1px;
+    letter-spacing: 3.7px;
+}
+
+@media(min-width:768px) {
+    .elementor-215 .elementor-element.elementor-element-fdee2cd {
+        --width: 100%;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-215 .elementor-element.elementor-element-c08dbcf {
+        --gap: 0px 0px;
+    }
+    .elementor-215 .elementor-element.elementor-element-fdee2cd {
+        --margin-top: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 10px;
+        --margin-right: 10px;
+    }
+    .elementor-215 .elementor-element.elementor-element-7d46bcc {
+        text-align: center;
+        font-size: 27px;
+    }
+    .elementor-215 .elementor-element.elementor-element-7d46bcc>.elementor-widget-container {
+        margin: 5% 0% 0% 0%;
+    }
+}

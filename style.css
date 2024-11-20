@@ -1,0 +1,6 @@
+
+.circular-image {
+    border-radius: 50%;
+    width: 500px; /* Ensure the image remains circular by maintaining the same width and height */
+    height: 500px;
+}
